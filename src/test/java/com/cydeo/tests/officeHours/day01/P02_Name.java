@@ -67,6 +67,8 @@ public class P02_Name {
             System.out.println("PASSED");
         }else {
             System.err.println("FAILED");
+
+            
         }
         Thread.sleep(3000);
 
